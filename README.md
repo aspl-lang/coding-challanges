@@ -3,7 +3,9 @@ In this directory, there are a few different coding challenges with increasing l
 
 Current challenges are:
 * Recursive Fibonacci (1/5)
+* Password Generator (1/5)
 * Weather Fetcher (2/5)
+* Hindu-Arabic To Roman Numeral Converter (2/5)
 * Snake Game (3/5)
 * Brainfuck Interpreter (4/5)
 * YAML To JSON Converter (5/5)
