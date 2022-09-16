@@ -2,6 +2,7 @@
 In this directory, there are a few different coding challenges with increasing levels of difficulty.
 
 Current challenges are:
+* Digit Sums (1/5)
 * Recursive Fibonacci (1/5)
 * Password Generator (1/5)
 * Weather Fetcher (2/5)
